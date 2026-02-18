@@ -1,4 +1,4 @@
 Status:
-"some issues"
+"Some issues"
 Comment:
 "Xenos website got mass reported and will be back soon use this website instead:  https://www.xeno.onl/"
