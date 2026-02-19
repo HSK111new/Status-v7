@@ -1,11 +1,15 @@
-[Decompiler]
-Status=Working
-Comment=Everything runs fine
-
-[Website]
+[Xeno]
 Status=Some issues
-Comment=UI glitches on mobile
+Comment=The xeno website got mass reported and will be back soon instead use : https://www.xeno.onl
 
-[API]
-Status=Not working
-Comment=Server offline
+[SaveSync]
+Status=Working
+Comment=Script is working with all decompilers
+
+[Oracle]
+Status=Working
+Comment=Working...
+
+[Konstant (Script)]
+Status=Some issues
+Comment=Working in some games..
