@@ -1,4 +1,11 @@
-Status:
-"Some issues"
-Comment:
-"Xenos website got mass reported and will be back soon use this website instead:  https://www.xeno.onl/"
+[Decompiler]
+Status=Working
+Comment=Everything runs fine
+
+[Website]
+Status=Some issues
+Comment=UI glitches on mobile
+
+[API]
+Status=Not working
+Comment=Server offline
